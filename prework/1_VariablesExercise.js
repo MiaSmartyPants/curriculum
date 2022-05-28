@@ -93,7 +93,7 @@ const myAnswerForExercise17 = "";
 const myAnswerForExercise18 = "";
 
 // Exercise 19 What is the value of 1 == "1"
-const myAnswerForExercise19 = "";
+const myAnswerForExercise19 = "false";
 
 // Exercise 20 What is the value of 1 < 1
 const myAnswerForExercise20 = "";
